@@ -1,0 +1,5 @@
+cc -std=c99 -Wall parsing.c mpc.c -ledit -lm -o parsing
+
+-Wall warning msg
+-ledit editline library
+-lm math library
